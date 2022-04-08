@@ -11,4 +11,6 @@
     <string name="iniciar_sesion">Inicar Sesion</string>
     <string name="leer_codigo">Leer Codigo</string>
     <string name="ingresar_producto">Ingresar Producto</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="contrase_a">Contraseña</string>
 </resources>
