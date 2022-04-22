@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ControlDeStock</string>
+    <string-array name="categoria_producto">
+        <item>Tecnología</item>
+        <item>Línea blanca</item>
+        <item>Deporte</item>
+        <item>Calzado</item>
+        <item>Jupiter</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="iniciar_sesion">Inicar Sesion</string>
+    <string name="leer_codigo">Leer Codigo</string>
+    <string name="ingresar_producto">Ingresar Producto</string>
+    <string name="correo_electronico"> Correo electronico</string>
+    <string name="contrase_a">Contraseña</string>
+</resources>
